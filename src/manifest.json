@@ -8,8 +8,8 @@
   "content_scripts": [
     {
       "matches": [
-        "https://manyland.com/*",
-        "http://manyland.com/*"
+        "https://saltfree.antisa.lt/*",
+        "http://saltfree.antisa.lt/*"
       ],
       "js": [
         "inject.js"
@@ -48,8 +48,8 @@
         "dependencies/quantize.js"
       ],
       "matches": [
-        "http://manyland.com/*",
-        "https://manyland.com/*"
+        "http://saltfree.antisa.lt/*",
+        "https://saltfree.antisa.lt/*"
       ]
     }
   ],

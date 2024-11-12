@@ -12,7 +12,7 @@
         clearInterval(loading);
         loadDeobf();
         // Mods go here
-        extraSoundsMain();
+        // extraSoundsMain();
         performanceMain();
         contrastMain();
         speechtotextMain();

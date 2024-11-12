@@ -1,3 +1,4 @@
+/*
 function extraSoundsMain() {
     ig.game.settings.add = Deobfuscator.function(ig.game.settings, 'Math.min(ig.system.scale,5)', true);
     ig.game.settings.header = Deobfuscator.function(ig.game.settings, 'text-transform: uppercase;', true);
@@ -215,3 +216,4 @@ function extraSoundsMain() {
 
 
 }
+*/

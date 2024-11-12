@@ -54,7 +54,7 @@ function friendsplusMain() {
     let playersInAreaHTML = `<h3 style="color: green">Players In Area</h3><div class="separator" style="border-top: 3px solid rgba(100, 100, 100, 0.4); border-bottom: 0px; margin-top: 6px; margin-bottom: 6px; --darkreader-inline-border-top:rgba(95, 103, 107, 0.4); --darkreader-inline-border-bottom: initial;" id="sep" data-darkreader-inline-border-top="" data-darkreader-inline-border-bottom=""></div>`
     let playersInAreaHTMLSave = playersInAreaHTML;
 
-    const requestUrl = window.location.protocol === "https:" ? 'https://manyland.com/j/u/ps/' : 'http://manyland.com/j/u/ps';
+    const requestUrl = window.location.protocol === "https:" ? 'https://saltfree.antisa.lt/j/u/ps/' : 'http://saltfree.antisa.lt/j/u/ps';
 
     function friendSearch(event) {
 

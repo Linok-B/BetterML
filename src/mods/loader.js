@@ -13,20 +13,20 @@
         loadDeobf();
         // Mods go here
         // extraSoundsMain();
-        performanceMain();
-        contrastMain();
-        speechtotextMain();
-        debugMain();
+        //performanceMain();
+        //contrastMain();
+        //speechtotextMain();
+        //debugMain();
         exporterMain();
-        rankhandMain();
-        norefreshMain();
+        //rankhandMain();
+        //norefreshMain();
         loadPixelCopy();
-        friendsplusMain();
+        //friendsplusMain();
         movepainterMain();
         freecamMain();
         importerMain();
         buildMain();
-        farbackMain();
+        //farbackMain();
 
     }, 250)
 }()

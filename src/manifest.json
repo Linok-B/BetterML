@@ -3,7 +3,7 @@
   "name": "BetterML",
   "version": "1.0.8",
   "manifest_version": 3,
-  "description": "Making Manyland Better.",
+  "description": "Making Saltfree Better.",
   "homepage_url": "https://github.com/ZoltarML/",
   "content_scripts": [
     {
